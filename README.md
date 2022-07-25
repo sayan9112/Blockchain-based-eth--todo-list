@@ -16,7 +16,7 @@ Creating a todo app with Etherium smart contracts using the Solidity programming
 '''
 ## Run this app:
 '''
-npm run dev
+<npm run dev>
 
 '''
 
